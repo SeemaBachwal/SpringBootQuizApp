@@ -1,0 +1,10 @@
+{
+	"questionTitle": "What is Kafka?",
+	"option1": "An api gateway",
+	"option2": "A message broker",
+	"option3": "A service",
+	"option4": "A machine",
+	"rightAnswer": "A message broker",
+	"difficultyLevel": "Easy",
+	"category": "Java"
+}

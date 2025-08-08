@@ -1,0 +1,26 @@
+// All are correct answers
+[
+
+    {
+        "id": 7,
+        "userAnswer": "do-while loop"
+    },
+    {
+        "id": 8,
+        "userAnswer": "To terminate a loop or switch statement and transfer control to the next statement."
+    },
+    {
+        "id": 9,
+        "userAnswer": "+"
+    },
+    {
+        "id": 27,
+        "userAnswer": "Use of pointers"
+    },
+    {
+        "id": 10,
+        "userAnswer": "ArrayList"
+    }
+
+
+]
